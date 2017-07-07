@@ -1,6 +1,8 @@
 # Grudge
 
-Grudage is a small library to execute code blocks in a secured environment,
+[![GoDoc](https://godoc.org/github.com/emostafa/grudge?status.svg)](https://godoc.org/github.com/emostafa/grudge)
+
+Grudge is a small library to execute code blocks in a secured environment,
 Could be used in online judgers. 
 
 I created the library for learning purposes and it's fairly new,

@@ -1,5 +1,6 @@
 /*
-Grudage is a small library to execute code blocks in a secured environment,
+
+Package grudge is a small library to execute code blocks in a secured environment,
 Could be used in online judgers.
 
 I created the library for learning purposes and it's fairly new,
